@@ -1,0 +1,6 @@
+The Sun God Ra,Raziel,player,95950,Thresh,Lucian,Caitlyn,Flor Espiritual,Estrella oscura
+Josesita,jose,player,99150,Orbe1,Orbe2,Leona,Luna de jupiter,Lucian,Luna de sangre
+Fibs,jose,player,100000,Orbe3,Leona,Luna de jupiter,Amumu,Luna de jupiter,Ashe,Luna de jupiter,Lucian,Luna de sangre
+Admin,admin,Admin
+Jhonatan,a,player,4949,Amumu,Luna de jupiter,Sona,Luna de jupiter,Udyr,Luna de jupiter,Lucian,Luna de jupiter
+a,aa,player,14837
